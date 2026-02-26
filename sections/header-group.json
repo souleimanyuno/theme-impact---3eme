@@ -34,28 +34,12 @@
             "text": "12,000+ WOMEN OBSESSED | 5-STAR REVIEWS",
             "url": ""
           }
-        },
-        "message_4MYheV": {
-          "type": "message",
-          "settings": {
-            "text": "30-DAY PERFECT FIT GUARANTEE",
-            "url": ""
-          }
-        },
-        "message_H7Ab9a": {
-          "type": "message",
-          "settings": {
-            "text": "WINTER'S EXCLUSIVE OFFER",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message_mA63J9",
         "message_4JWk4f",
-        "message",
-        "message_4MYheV",
-        "message_H7Ab9a"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
@@ -74,6 +58,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/NELORYA_1_9338a24a-9cbb-4902-87b5-04256fa8836f.png",
         "logo_max_width": 200,
         "logo_mobile_max_width": 120,
         "menu": "",
