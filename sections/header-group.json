@@ -14,10 +14,17 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_mA63J9": {
+          "type": "message",
+          "settings": {
+            "text": "+4 800 femmes ont retrouvé leur sourire",
+            "url": ""
+          }
+        },
         "message_4JWk4f": {
           "type": "message",
           "settings": {
-            "text": "FREE SHIPPING & RETURNS",
+            "text": "30 jours, Satisfaite ou Remboursée",
             "url": ""
           }
         },
@@ -44,6 +51,7 @@
         }
       },
       "block_order": [
+        "message_mA63J9",
         "message_4JWk4f",
         "message",
         "message_4MYheV",
@@ -56,9 +64,9 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#d8baa0",
+        "background": "#b78bff",
         "background_gradient": "",
-        "text_color": "#1a1a1a"
+        "text_color": "#ffffff"
       }
     },
     "header": {
@@ -66,7 +74,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Nude_Beige.png",
         "logo_max_width": 200,
         "logo_mobile_max_width": 120,
         "menu": "",
