@@ -184,6 +184,42 @@
         "text_color": ""
       }
     },
+    "impact_text_yp74QM": {
+      "type": "impact-text",
+      "blocks": {
+        "item_KmFnY7": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Les Bandes Blanchissantes DontTout le Monde Parle",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_KmFnY7"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.8,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image_with_text_overlay_eVx4Ue": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -192,8 +228,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_fevr._2026_04_26_57.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_27_fevr._2026_04_26_57.png",
+        "image": "shopify://shop_images/ChatGPT_Image_27_fevr._2026_04_26_57_8239159e-5b45-4fbe-8ce8-11091e148748.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -206,6 +241,7 @@
     "main",
     "related-products",
     "custom_liquid_tMfpE4",
+    "impact_text_yp74QM",
     "image_with_text_overlay_eVx4Ue"
   ]
 }
