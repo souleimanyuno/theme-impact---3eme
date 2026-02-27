@@ -94,7 +94,17 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Ingrédients & Bénéfices",
-            "content": "<h6>Ingrédients clés :</h6><ul><li><strong>Formule PAP Violette (Phthalimidoperoxycaproic Acid)</strong> — Blanchit en profondeur sans peroxyde. Zéro élancement, zéro brûlure des gencives.</li><li><strong>Pigments Correcteurs Violets</strong> — Neutralisent instantanément les tons jaunes. Le violet annule le jaune — comme le shampooing violet sur cheveux blonds.</li><li><strong>Gel Adhésif Doux pour l'Émail</strong> — Maintient les bandes en place sans abîmer l'émail dentaire.</li></ul><h6><strong>Bénéfices :</strong></h6><ul><li>Zéro peroxyde : la cause n°1 des douleurs disparaît</li><li>Résultats visibles dès la première utilisation</li><li>Jusqu'à 6 tons plus blanc en 7 jours</li><li>Respecte l'émail et les gencives</li><li>Sans toxines, sans produits agressifs</li></ul>",
+            "content": "<h6><br/>Ingrédients clés :</h6><ul><li><strong>Formule PAP Violette (Phthalimidoperoxycaproic Acid)</strong> — Blanchit en profondeur sans peroxyde. Zéro élancement, zéro brûlure des gencives.</li><li><strong>Pigments Correcteurs Violets</strong> — Neutralisent instantanément les tons jaunes. Le violet annule le jaune — comme le shampooing violet sur cheveux blonds.</li><li><strong>Gel Adhésif Doux pour l'Émail</strong> — Maintient les bandes en place sans abîmer l'émail dentaire.</li></ul><p></p><h6><strong>Bénéfices :</strong></h6><ul><li>Zéro peroxyde : la cause n°1 des douleurs disparaît</li><li>Résultats visibles dès la première utilisation</li><li>Jusqu'à 6 tons plus blanc en 7 jours</li><li>Respecte l'émail et les gencives</li><li>Sans toxines, sans produits agressifs</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_WDPazW": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison, Retours & Garantie",
+            "content": "<p>Livraison suivie partout en France. La majorité des commandes arrivent en <strong>5 à 7 jours ouvrés.</strong></p><p>Si vous ne voyez pas de différence  ou si vous ressentez la moindre sensibilité, vous êtes couverte par notre <strong>Garantie Satisfaite ou Remboursée 30 Jours.</strong> Sans condition. Sans question. Remboursement complet garanti.</p>",
             "page": ""
           }
         }
@@ -111,7 +121,8 @@
         "liquid_bxUypG",
         "collapsible_text_Dnwm84",
         "collapsible_text_94Q3UR",
-        "collapsible_text_FNhPEE"
+        "collapsible_text_FNhPEE",
+        "collapsible_text_WDPazW"
       ],
       "settings": {
         "full_width": true,
