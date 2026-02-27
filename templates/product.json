@@ -12,12 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_UzPcCW": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display:flex; flex-direction:column; gap:12px; margin:16px 0;\">\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Zéro Peroxyde — Zéro Douleur, Zéro Élancement</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Résultats Visibles Dès 30 Minutes</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Jusqu'à 6 Tons Plus Blanc en 7 Jours</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Validé par des Experts Dentaires</span>\n  </div>\n\n</div>"
-          }
-        },
         "sku_yiWakU": {
           "type": "sku",
           "settings": {}
@@ -70,28 +64,10 @@
             "liquid": "<div style=\"\n  display: inline-flex;\n  align-items: center;\n  gap: 8px;\n  background-color: #f3eeff;\n  border: 1px solid #7c3aed;\n  border-radius: 20px;\n  padding: 6px 14px;\n  margin: 8px 0;\n\">\n  <span style=\"\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #ef4444;\n    display: inline-block;\n    box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.25);\n    animation: pulse 1.5s infinite;\n  \"></span>\n  <span style=\"\n    font-size: 13px;\n    font-weight: 600;\n    color: #7c3aed;\n    letter-spacing: 0.3px;\n  \">⚠️ Stock Limité — Commande Assurée Aujourd'hui</span>\n</div>\n\n<style>\n@keyframes pulse {\n  0% { box-shadow: 0 0 0 0 rgba(124, 58, 237, 0.4); }\n  70% { box-shadow: 0 0 0 6px rgba(124, 58, 237, 0); }\n  100% { box-shadow: 0 0 0 0 rgba(124, 58, 237, 0); }\n}\n</style>"
           }
         },
-        "text_ekkTkw": {
-          "type": "text",
+        "liquid_UzPcCW": {
+          "type": "liquid",
           "settings": {
-            "text": "<p><strong>💜 Zéro Peroxyde — Zéro Douleur, Zéro Élancement</strong></p>"
-          }
-        },
-        "text_nQpMNH": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>✨ Résultats Visibles Dès 30 Minutes</strong></p>"
-          }
-        },
-        "text_Binjik": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>🦷 Jusqu'à 6 Tons Plus Blanc en 7 Jours</strong></p>"
-          }
-        },
-        "text_RUbw44": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>✅ Validé par des Experts Dentaires</strong></p>"
+            "liquid": "<div style=\"display:flex; flex-direction:column; gap:12px; margin:16px 0;\">\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Zéro Peroxyde — Zéro Douleur, Zéro Élancement</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Résultats Visibles Dès 30 Minutes</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Jusqu'à 6 Tons Plus Blanc en 7 Jours</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Validé par des Experts Dentaires</span>\n  </div>\n\n</div>"
           }
         },
         "rating": {
@@ -125,7 +101,6 @@
         }
       },
       "block_order": [
-        "liquid_UzPcCW",
         "sku_yiWakU",
         "title",
         "text_P9tqH4",
@@ -134,10 +109,7 @@
         "kaching_bundles_app_block_xhfEX9",
         "buy_buttons",
         "liquid_3BNrE7",
-        "text_ekkTkw",
-        "text_nQpMNH",
-        "text_Binjik",
-        "text_RUbw44",
+        "liquid_UzPcCW",
         "rating",
         "payment_terms",
         "separator",
