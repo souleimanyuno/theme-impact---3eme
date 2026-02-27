@@ -15,7 +15,8 @@
         "image_CUccXF": {
           "type": "image",
           "settings": {
-            "content_max_width": 780,
+            "image": "shopify://shop_images/ChatGPT_Image_27_fevr._2026_05_32_17.png",
+            "content_max_width": 740,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Tell your story",
@@ -27,7 +28,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 20,
             "background": "",
             "background_gradient": ""
           }
