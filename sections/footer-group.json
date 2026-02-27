@@ -14,15 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 170,
-            "heading_size": "h4",
-            "title": "Sign up for style secrets and exclusive offers.",
-            "content": ""
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -41,7 +32,6 @@
         }
       },
       "block_order": [
-        "newsletter",
         "links",
         "text_Hf3zNE"
       ],
