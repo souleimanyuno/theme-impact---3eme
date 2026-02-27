@@ -12,6 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "sku_yiWakU": {
+          "type": "sku",
+          "settings": {}
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -21,7 +25,15 @@
         "text_P9tqH4": {
           "type": "text",
           "settings": {
-            "text": "<p>Share some content to your customers about your products.</p>"
+            "text": "<p>7 sachets — Cure 7 Jours</p>"
+          }
+        },
+        "image_ia6GTj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_le_2026-02-27_a_01.08.15.png",
+            "alignment": "start",
+            "max_width": 150
           }
         },
         "badges": {
@@ -84,8 +96,10 @@
         }
       },
       "block_order": [
+        "sku_yiWakU",
         "title",
         "text_P9tqH4",
+        "image_ia6GTj",
         "badges",
         "price",
         "rating",
