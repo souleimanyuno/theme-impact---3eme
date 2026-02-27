@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_UzPcCW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display:flex; flex-direction:column; gap:12px; margin:16px 0;\">\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Zéro Peroxyde — Zéro Douleur, Zéro Élancement</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Résultats Visibles Dès 30 Minutes</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Jusqu'à 6 Tons Plus Blanc en 7 Jours</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Validé par des Experts Dentaires</span>\n  </div>\n\n</div>"
+          }
+        },
         "sku_yiWakU": {
           "type": "sku",
           "settings": {}
@@ -119,6 +125,7 @@
         }
       },
       "block_order": [
+        "liquid_UzPcCW",
         "sku_yiWakU",
         "title",
         "text_P9tqH4",
