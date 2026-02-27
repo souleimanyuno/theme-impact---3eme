@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_EaGfqN": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "content": "<h4>Le blanchiment sans douleur, enfin.</h4>",
+            "enable_follow_on_shop": true
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -21,19 +29,11 @@
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text_Hf3zNE": {
-          "type": "text",
-          "settings": {
-            "title": "Need assistance ?",
-            "content": "<p><strong>Contact us via our form on the Contact page or by email at<br/>contact@nelorya.com</strong></p><p><strong>Opening hours:</strong>Monday to Saturday from 9:00 a.m. to 1:00 p.m. and from 2:00 p.m. to 8:00 p.m. / Sunday from 10:00 a.m. to 12:00 p.m.</p>",
-            "enable_follow_on_shop": false
-          }
         }
       },
       "block_order": [
-        "links",
-        "text_Hf3zNE"
+        "text_EaGfqN",
+        "links"
       ],
       "settings": {
         "show_social_media": false,
