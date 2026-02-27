@@ -58,6 +58,30 @@
             "payment_button_text_color": ""
           }
         },
+        "text_ekkTkw": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>💜 Zéro Peroxyde — Zéro Douleur, Zéro Élancement</strong></p>"
+          }
+        },
+        "text_nQpMNH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✨ Résultats Visibles Dès 30 Minutes</strong></p>"
+          }
+        },
+        "text_Binjik": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>🦷 Jusqu'à 6 Tons Plus Blanc en 7 Jours</strong></p>"
+          }
+        },
+        "text_RUbw44": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✅ Validé par des Experts Dentaires</strong></p>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -71,14 +95,6 @@
         "separator": {
           "type": "separator",
           "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -104,10 +120,13 @@
         "image_ia6GTj",
         "kaching_bundles_app_block_xhfEX9",
         "buy_buttons",
+        "text_ekkTkw",
+        "text_nQpMNH",
+        "text_Binjik",
+        "text_RUbw44",
         "rating",
         "payment_terms",
         "separator",
-        "description",
         "variant_picker",
         "quantity_selector"
       ],
