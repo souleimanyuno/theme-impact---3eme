@@ -9,22 +9,17 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-not-found",
-      "disabled": true,
-      "settings": {}
-    },
-    "slideshow_XdgR8W": {
+    "slideshow_yBMceC": {
       "type": "slideshow",
       "blocks": {
-        "image_DHxME4": {
+        "image_CUccXF": {
           "type": "image",
           "settings": {
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -39,7 +34,7 @@
         }
       },
       "block_order": [
-        "image_DHxME4"
+        "image_CUccXF"
       ],
       "name": "Slideshow",
       "settings": {
@@ -54,10 +49,61 @@
         "background": "#F2F2F2",
         "background_gradient": ""
       }
+    },
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
+    },
+    "multiple_images_with_text_DTnVWW": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_8VmpbU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_fevr._2026_23_48_56.png",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Enfin Un Blanchiment Sans Douleur",
+            "content": "<p>Ces bandes blanchissantes utilisent la technologie PAP Violette pour éliminer les taches jaunes sans peroxyde, sans élancement, sans brûlure. Confortables à porter, conçues pour les dents sensibles — un sourire plus blanc en seulement 30 minutes.</p>",
+            "button_url": "shopify://products/nelorya-lumiere-violette™",
+            "button_text": "Essayer Sans Risque"
+          }
+        }
+      },
+      "block_order": [
+        "item_8VmpbU"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "#a16cf7",
+        "button_text_color": ""
+      }
+    },
+    "custom_liquid_AciCTC": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<section class=\"why-nelorya\">\n  <div class=\"why-nelorya__container\">\n\n    <h2>Pourquoi NELORYA ?</h2>\n    <p>Chez NELORYA, on a créé ce produit pour toutes celles qui ont renoncé au blanchiment à cause de la douleur. Notre Formule PAP Violette blanchit sans peroxyde — la cause numéro 1 des élancements. Des résultats visibles dès 30 minutes. Garantie 30 jours sans condition.</p>\n\n    <div class=\"why-nelorya__grid\">\n\n      <div class=\"why-nelorya__item\">\n        <div class=\"why-nelorya__icon\">\n          <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/></svg>\n        </div>\n        <p>Formule Sans Peroxyde</p>\n      </div>\n\n      <div class=\"why-nelorya__item\">\n        <div class=\"why-nelorya__icon\">\n          <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"20 6 9 17 4 12\"/></svg>\n        </div>\n        <p>Validée Cliniquement</p>\n      </div>\n\n      <div class=\"why-nelorya__item\">\n        <div class=\"why-nelorya__icon\">\n          <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><polyline points=\"12 6 12 12 16 14\"/></svg>\n        </div>\n        <p>Résultats en 30 Minutes</p>\n      </div>\n\n      <div class=\"why-nelorya__item\">\n        <div class=\"why-nelorya__icon\">\n          <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><polyline points=\"9 12 11 14 15 10\"/></svg>\n        </div>\n        <p>Garantie 30 Jours</p>\n      </div>\n\n    </div>\n  </div>\n</section>\n\n<style>\n  .why-nelorya {\n    background: #F9F5FF;\n    padding: 80px 24px;\n    text-align: center;\n    font-family: inherit;\n  }\n  .why-nelorya__container {\n    max-width: 640px;\n    margin: 0 auto;\n  }\n  .why-nelorya h2 {\n    font-size: 28px;\n    font-weight: 700;\n    color: #3B1F6E;\n    margin: 0 0 20px;\n  }\n  .why-nelorya__container > p {\n    font-size: 16px;\n    color: #4A4A4A;\n    line-height: 1.7;\n    margin: 0 0 48px;\n  }\n  .why-nelorya__grid {\n    display: grid;\n    grid-template-columns: 1fr 1fr;\n    gap: 40px 24px;\n    max-width: 460px;\n    margin: 0 auto;\n  }\n  .why-nelorya__item {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    gap: 14px;\n  }\n  .why-nelorya__icon {\n    width: 72px;\n    height: 72px;\n    border-radius: 50%;\n    background: #EDE4FF;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .why-nelorya__icon svg {\n    width: 32px;\n    height: 32px;\n    stroke: #7B2FBE;\n  }\n  .why-nelorya__item p {\n    font-size: 15px;\n    font-weight: 600;\n    color: #3B1F6E;\n    margin: 0;\n    line-height: 1.4;\n  }\n  @media (max-width: 480px) {\n    .why-nelorya__grid { gap: 32px 16px; }\n    .why-nelorya__icon { width: 60px; height: 60px; }\n    .why-nelorya__icon svg { width: 26px; height: 26px; }\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
+    "slideshow_yBMceC",
     "main",
-    "slideshow_XdgR8W"
+    "multiple_images_with_text_DTnVWW",
+    "custom_liquid_AciCTC"
   ]
 }
