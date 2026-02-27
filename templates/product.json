@@ -43,7 +43,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
-            "show_gift_card_recipient": true,
+            "show_gift_card_recipient": false,
             "atc_button_background": "#a16cf7",
             "atc_button_text_color": "#ffffff",
             "payment_button_background": "",
