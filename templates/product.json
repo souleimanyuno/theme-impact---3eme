@@ -12,12 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_6a3inE": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"\n  display: inline-flex;\n  align-items: center;\n  gap: 6px;\n\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/Capture_d_ecran_le_2026-02-27_a_01.08.15_430x.png?v=1772177363\"\n    alt=\"étoiles\"\n    style=\"height: 16px; width: auto;\"\n  />\n  <span style=\"font-size: 13px; font-weight: 600;\">\n    +4 800 femmes ont retrouvé leur sourire\n  </span>\n</div>"
-          }
-        },
         "sku_yiWakU": {
           "type": "sku",
           "settings": {}
@@ -28,10 +22,10 @@
             "heading_tag": "h2"
           }
         },
-        "text_P9tqH4": {
-          "type": "text",
+        "liquid_6a3inE": {
+          "type": "liquid",
           "settings": {
-            "text": "<p>7 sachets — Cure 7 Jours</p>"
+            "liquid": "<div style=\"margin-top: -8px;\">\n  <p style=\"font-size: 14px; color: #6b7280; margin: 0 0 6px 0;\">\n    7 sachets — Cure 7 Jours\n  </p>\n  <div style=\"display: flex; align-items: center; gap: 6px;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/Capture_d_ecran_le_2026-02-27_a_01.08.15_430x.png?v=1772177363\"\n      alt=\"étoiles\"\n      style=\"height: 16px; width: auto;\"\n    />\n    <span style=\"font-size: 13px; font-weight: 600;\">\n      +4 800 femmes ont retrouvé leur sourire\n    </span>\n  </div>\n</div>"
           }
         },
         "badges": {
@@ -105,10 +99,9 @@
         }
       },
       "block_order": [
-        "liquid_6a3inE",
         "sku_yiWakU",
         "title",
-        "text_P9tqH4",
+        "liquid_6a3inE",
         "badges",
         "kaching_bundles_app_block_xhfEX9",
         "buy_buttons",
