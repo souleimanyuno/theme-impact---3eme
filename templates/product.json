@@ -12,6 +12,13 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "kaching_bundles_app_block_xhfEX9": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "nelorya-lumiere-violette™",
+            "manual_deal_block_id": ""
+          }
+        },
         "sku_yiWakU": {
           "type": "sku",
           "settings": {}
@@ -96,6 +103,7 @@
         }
       },
       "block_order": [
+        "kaching_bundles_app_block_xhfEX9",
         "sku_yiWakU",
         "title",
         "text_P9tqH4",
