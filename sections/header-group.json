@@ -57,7 +57,7 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": false,
+        "hide_on_scroll": true,
         "logo": "shopify://shop_images/NELORYA_1_9338a24a-9cbb-4902-87b5-04256fa8836f.png",
         "logo_max_width": 200,
         "logo_mobile_max_width": 120,
