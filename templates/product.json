@@ -12,12 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_bxUypG": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"\n  background-color: #f3eeff;\n  border: 1px solid #e9d5ff;\n  border-radius: 16px;\n  padding: 16px;\n  margin: 16px 0;\n  display: flex;\n  flex-direction: column;\n  gap: 12px;\n\">\n\n  <!-- Étoiles -->\n  <div style=\"color: #f59e0b; font-size: 16px; letter-spacing: 2px;\">★★★★★</div>\n\n  <!-- Texte testimonial -->\n  <p style=\"\n    font-size: 14px;\n    color: #1a1a1a;\n    line-height: 1.6;\n    margin: 0;\n    font-style: italic;\n  \">\n    \"J'avais arrêté les strips depuis 2 ans à cause des élancements. Dès la première utilisation de NELORYA — zéro douleur, zéro brûlure. Et mes dents sont visiblement plus blanches en une semaine. Je regrette de ne pas l'avoir trouvé avant.\"\n  </p>\n\n  <!-- Auteur -->\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/telechargement_430x.jpg?v=1772176906\"\n      alt=\"Léa M.\"\n      style=\"\n        width: 42px;\n        height: 42px;\n        border-radius: 50%;\n        object-fit: cover;\n        border: 2px solid #7c3aed;\n      \"\n    />\n    <div>\n      <div style=\"font-size: 13px; font-weight: 700; color: #1a1a1a;\">Léa M.</div>\n      <div style=\"font-size: 12px; color: #7c3aed;\">✓ Achat vérifié</div>\n    </div>\n  </div>\n\n</div>"
-          }
-        },
         "sku_yiWakU": {
           "type": "sku",
           "settings": {}
@@ -58,7 +52,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#06ba4e",
+            "atc_button_background": "#a16cf7",
             "atc_button_text_color": "#ffffff",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -74,6 +68,12 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div style=\"display:flex; flex-direction:column; gap:12px; margin:16px 0;\">\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Zéro Peroxyde — Zéro Douleur, Zéro Élancement</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Résultats Visibles Dès 30 Minutes</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Jusqu'à 6 Tons Plus Blanc en 7 Jours</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:12px;\">\n    <svg width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n      <circle cx=\"11\" cy=\"11\" r=\"11\" fill=\"#EDE9FE\"/>\n      <path d=\"M6 11.5L9.5 15L16 8\" stroke=\"#7c3aed\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span style=\"font-size:15px; font-weight:600; color:#1a1a1a;\">Validé par des Experts Dentaires</span>\n  </div>\n\n</div>"
+          }
+        },
+        "liquid_bxUypG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"\n  background-color: #f3eeff;\n  border: 1px solid #e9d5ff;\n  border-radius: 16px;\n  padding: 16px;\n  margin: 16px 0;\n  display: flex;\n  flex-direction: column;\n  gap: 12px;\n\">\n\n  <!-- Étoiles -->\n  <div style=\"color: #f59e0b; font-size: 16px; letter-spacing: 2px;\">★★★★★</div>\n\n  <!-- Texte testimonial -->\n  <p style=\"\n    font-size: 14px;\n    color: #1a1a1a;\n    line-height: 1.6;\n    margin: 0;\n    font-style: italic;\n  \">\n    \"J'avais arrêté les strips depuis 2 ans à cause des élancements. Dès la première utilisation de NELORYA — zéro douleur, zéro brûlure. Et mes dents sont visiblement plus blanches en une semaine. Je regrette de ne pas l'avoir trouvé avant.\"\n  </p>\n\n  <!-- Auteur -->\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/telechargement_430x.jpg?v=1772176906\"\n      alt=\"Léa M.\"\n      style=\"\n        width: 42px;\n        height: 42px;\n        border-radius: 50%;\n        object-fit: cover;\n        border: 2px solid #7c3aed;\n      \"\n    />\n    <div>\n      <div style=\"font-size: 13px; font-weight: 700; color: #1a1a1a;\">Léa M.</div>\n      <div style=\"font-size: 12px; color: #7c3aed;\">✓ Achat vérifié</div>\n    </div>\n  </div>\n\n</div>"
           }
         },
         "rating": {
@@ -107,7 +107,6 @@
         }
       },
       "block_order": [
-        "liquid_bxUypG",
         "sku_yiWakU",
         "title",
         "text_P9tqH4",
@@ -117,6 +116,7 @@
         "buy_buttons",
         "liquid_3BNrE7",
         "liquid_UzPcCW",
+        "liquid_bxUypG",
         "rating",
         "payment_terms",
         "separator",
