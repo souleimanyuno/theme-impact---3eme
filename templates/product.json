@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_6a3inE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"\n  display: inline-flex;\n  align-items: center;\n  gap: 6px;\n\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/Capture_d_ecran_le_2026-02-27_a_01.08.15_430x.png?v=1772177363\"\n    alt=\"étoiles\"\n    style=\"height: 16px; width: auto;\"\n  />\n  <span style=\"font-size: 13px; font-weight: 600;\">\n    +4 800 femmes ont retrouvé leur sourire\n  </span>\n</div>"
+          }
+        },
         "sku_yiWakU": {
           "type": "sku",
           "settings": {}
@@ -31,14 +37,6 @@
         "badges": {
           "type": "badges",
           "settings": {}
-        },
-        "image_ia6GTj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_le_2026-02-27_a_01.08.15.png",
-            "alignment": "start",
-            "max_width": 170
-          }
         },
         "kaching_bundles_app_block_xhfEX9": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
@@ -107,11 +105,11 @@
         }
       },
       "block_order": [
+        "liquid_6a3inE",
         "sku_yiWakU",
         "title",
         "text_P9tqH4",
         "badges",
-        "image_ia6GTj",
         "kaching_bundles_app_block_xhfEX9",
         "buy_buttons",
         "liquid_3BNrE7",
