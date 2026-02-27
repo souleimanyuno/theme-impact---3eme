@@ -47,7 +47,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -62,7 +62,7 @@
         "item_8VmpbU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_fevr._2026_23_48_56.png",
+            "image": "shopify://shop_images/ChatGPT_Image_27_fevr._2026_18_05_50.png",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Enfin Un Blanchiment Sans Douleur",
