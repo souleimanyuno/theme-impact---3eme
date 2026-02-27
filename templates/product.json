@@ -25,7 +25,7 @@
         "liquid_6a3inE": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"margin-top: -8px;\">\n  <p style=\"font-size: 14px; color: #6b7280; margin: 0 0 6px 0;\">\n    7 sachets — Cure 7 Jours\n  </p>\n  <div style=\"display: flex; align-items: center; gap: 6px;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/Capture_d_ecran_le_2026-02-27_a_01.08.15_430x.png?v=1772177363\"\n      alt=\"étoiles\"\n      style=\"height: 16px; width: auto;\"\n    />\n    <span style=\"font-size: 13px; font-weight: 600;\">\n      +4 800 femmes ont retrouvé leur sourire\n    </span>\n  </div>\n</div>"
+            "liquid": "<div style=\"margin-top: -8px;\">\n  <p style=\"font-size: 14px; color: #6b7280; margin: 0 0 6px 0;\">\n    7 sachets (1 boite) — Cure 7 Jours\n  </p>\n  <div style=\"display: flex; align-items: center; gap: 6px;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/Capture_d_ecran_le_2026-02-27_a_01.08.15_430x.png?v=1772177363\"\n      alt=\"étoiles\"\n      style=\"height: 16px; width: auto;\"\n    />\n    <span style=\"font-size: 13px; font-weight: 600;\">\n      +4 800 femmes ont retrouvé leur sourire\n    </span>\n  </div>\n</div>"
           }
         },
         "badges": {
