@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_bxUypG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"\n  background-color: #f3eeff;\n  border: 1px solid #e9d5ff;\n  border-radius: 16px;\n  padding: 16px;\n  margin: 16px 0;\n  display: flex;\n  flex-direction: column;\n  gap: 12px;\n\">\n\n  <!-- Étoiles -->\n  <div style=\"color: #f59e0b; font-size: 16px; letter-spacing: 2px;\">★★★★★</div>\n\n  <!-- Texte testimonial -->\n  <p style=\"\n    font-size: 14px;\n    color: #1a1a1a;\n    line-height: 1.6;\n    margin: 0;\n    font-style: italic;\n  \">\n    \"J'avais arrêté les strips depuis 2 ans à cause des élancements. Dès la première utilisation de NELORYA — zéro douleur, zéro brûlure. Et mes dents sont visiblement plus blanches en une semaine. Je regrette de ne pas l'avoir trouvé avant.\"\n  </p>\n\n  <!-- Auteur -->\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/telechargement_430x.jpg?v=1772176906\"\n      alt=\"Léa M.\"\n      style=\"\n        width: 42px;\n        height: 42px;\n        border-radius: 50%;\n        object-fit: cover;\n        border: 2px solid #7c3aed;\n      \"\n    />\n    <div>\n      <div style=\"font-size: 13px; font-weight: 700; color: #1a1a1a;\">Léa M.</div>\n      <div style=\"font-size: 12px; color: #7c3aed;\">✓ Achat vérifié</div>\n    </div>\n  </div>\n\n</div>"
+          }
+        },
         "sku_yiWakU": {
           "type": "sku",
           "settings": {}
@@ -101,6 +107,7 @@
         }
       },
       "block_order": [
+        "liquid_bxUypG",
         "sku_yiWakU",
         "title",
         "text_P9tqH4",
