@@ -183,11 +183,29 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_eVx4Ue": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_fevr._2026_04_26_57.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_27_fevr._2026_04_26_57.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "custom_liquid_tMfpE4"
+    "custom_liquid_tMfpE4",
+    "image_with_text_overlay_eVx4Ue"
   ]
 }
