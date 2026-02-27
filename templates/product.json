@@ -68,34 +68,35 @@
             "liquid": "<div style=\"\n  background-color: #f3eeff;\n  border: 1px solid #e9d5ff;\n  border-radius: 16px;\n  padding: 16px;\n  margin: 16px 0;\n  display: flex;\n  flex-direction: column;\n  gap: 12px;\n\">\n\n  <!-- Étoiles -->\n  <div style=\"color: #f59e0b; font-size: 16px; letter-spacing: 2px;\">★★★★★</div>\n\n  <!-- Texte testimonial -->\n  <p style=\"\n    font-size: 14px;\n    color: #1a1a1a;\n    line-height: 1.6;\n    margin: 0;\n    font-style: italic;\n  \">\n    \"J'avais arrêté les strips depuis 2 ans à cause des élancements. Dès la première utilisation de NELORYA — zéro douleur, zéro brûlure. Et mes dents sont visiblement plus blanches en une semaine. Je regrette de ne pas l'avoir trouvé avant.\"\n  </p>\n\n  <!-- Auteur -->\n  <div style=\"display: flex; align-items: center; gap: 10px;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/telechargement_430x.jpg?v=1772176906\"\n      alt=\"Léa M.\"\n      style=\"\n        width: 42px;\n        height: 42px;\n        border-radius: 50%;\n        object-fit: cover;\n        border: 2px solid #7c3aed;\n      \"\n    />\n    <div>\n      <div style=\"font-size: 13px; font-weight: 700; color: #1a1a1a;\">Léa M.</div>\n      <div style=\"font-size: 12px; color: #7c3aed;\">✓ Achat vérifié</div>\n    </div>\n  </div>\n\n</div>"
           }
         },
-        "rating": {
-          "type": "rating",
+        "collapsible_text_Dnwm84": {
+          "type": "collapsible_text",
           "settings": {
-            "show_empty": false
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Description",
+            "content": "<p><strong>Tu as déjà essayé le blanchiment. Ça t'a fait souffrir. Tu as arrêté.</strong></p><p>Ce n'était pas tes dents. C'était le peroxyde.</p><p>NELORYA a reformulé le blanchiment de zéro. Notre Formule PAP Violette de 2ème génération blanchit sans peroxyde — donc sans élancements, sans brûlures des gencives, sans douleur.</p><p>Résultats visibles dès la première application. Jusqu'à 6 tons plus blanc en 7 jours.</p>",
+            "page": ""
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "variant_picker": {
-          "type": "variant_picker",
+        "collapsible_text_94Q3UR": {
+          "type": "collapsible_text",
           "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Comment Utiliser",
+            "content": "<ul><li><strong>Séchez vos dents</strong> avant d'appliquer les bandes; c'est la clé pour une adhérence parfaite.</li><li><strong>Décollez la bande du bas en premier.</strong> Posez une bande sur les dents du haut, une sur les dents du bas.</li><li><strong>Appuyez doucement</strong> pour que la bande épouse parfaitement la forme de vos dents.</li><li><strong>Patientez 30 minutes.</strong> Pas de douleur, pas d'élancement; juste 30 minutes.</li><li><strong>Retirez et admirez.</strong> Jetez les bandes. Rincez ou brossez si vous le souhaitez.</li></ul>",
+            "page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
+        "collapsible_text_FNhPEE": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Ingrédients & Bénéfices",
+            "content": "<h6>Ingrédients clés :</h6><ul><li><strong>Formule PAP Violette (Phthalimidoperoxycaproic Acid)</strong> — Blanchit en profondeur sans peroxyde. Zéro élancement, zéro brûlure des gencives.</li><li><strong>Pigments Correcteurs Violets</strong> — Neutralisent instantanément les tons jaunes. Le violet annule le jaune — comme le shampooing violet sur cheveux blonds.</li><li><strong>Gel Adhésif Doux pour l'Émail</strong> — Maintient les bandes en place sans abîmer l'émail dentaire.</li></ul><h6><strong>Bénéfices :</strong></h6><ul><li>Zéro peroxyde : la cause n°1 des douleurs disparaît</li><li>Résultats visibles dès la première utilisation</li><li>Jusqu'à 6 tons plus blanc en 7 jours</li><li>Respecte l'émail et les gencives</li><li>Sans toxines, sans produits agressifs</li></ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -108,11 +109,9 @@
         "liquid_3BNrE7",
         "liquid_UzPcCW",
         "liquid_bxUypG",
-        "rating",
-        "payment_terms",
-        "separator",
-        "variant_picker",
-        "quantity_selector"
+        "collapsible_text_Dnwm84",
+        "collapsible_text_94Q3UR",
+        "collapsible_text_FNhPEE"
       ],
       "settings": {
         "full_width": true,
