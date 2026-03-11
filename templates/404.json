@@ -63,12 +63,12 @@
         "item_8VmpbU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_27_fevr._2026_18_05_50.png",
+            "image": "shopify://shop_images/ChatGPTImage11mars2026_13_32_57.png",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Enfin Un Blanchiment Sans Douleur",
-            "content": "<p>Ces bandes blanchissantes utilisent la technologie PAP Violette pour éliminer les taches jaunes sans peroxyde, sans élancement, sans brûlure. Confortables à porter, conçues pour les dents sensibles — un sourire plus blanc en seulement 30 minutes.</p>",
-            "button_url": "shopify://products/nelorya-lumiere-violette™",
+            "title": "NELORYA Capsaicin Power",
+            "content": "<p><strong>NELORYA Capsaicin Power</strong> wird aus Cayennepfeffer-Extrakt, Rote-Bete-Extrakt und 10 weiteren Inhaltsstoffen hergestellt — alle speziell entwickelt, um die Gefäßfunktion zu unterstützen.</p><p>Der Wirkstoff <strong>Capsaicin</strong> aktiviert Stickoxid-Wege, die kein anderes Herz-Kreislauf-Supplement erreichen kann.</p>",
+            "button_url": "shopify://products/nelorya-capsaicin-power",
             "button_text": "Essayer Sans Risque"
           }
         }
@@ -84,7 +84,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "button_background": "#a16cf7",
+        "button_background": "#cb4b45",
         "button_text_color": ""
       }
     },
