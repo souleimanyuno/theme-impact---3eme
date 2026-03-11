@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "sku_yiWakU": {
-          "type": "sku",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -28,9 +24,11 @@
             "liquid": "<div style=\"margin-top: -8px;\">\n  <p style=\"font-size: 14px; color: #6b7280; margin: 0 0 6px 0;\">\n    1 Beutel (180 Softgels) — 60 Tage Vorrat\n  </p>\n  <div style=\"display: flex; align-items: center; gap: 6px;\">\n    <img \n      src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/Capture_d_ecran_le_2026-02-27_a_01.08.15_430x.png?v=1772177363\"\n      alt=\"étoiles\"\n      style=\"height: 16px; width: auto;\"\n    />\n    <span style=\"font-size: 11px; font-weight: 600;\">\n      +4.800 Männer haben ihre Vitalität zurückgewonnen\n    </span>\n  </div>\n</div>"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
+        "liquid_hVX3LG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #8b0000; text-align: center; padding: 12px 16px;\">\n  <span style=\"color: #ffffff; font-weight: 700; font-size: 14px; letter-spacing: 0.03em;\">\n    ⏳ Angebot endet in <span id=\"bundle-timer\">05:00</span>\n  </span>\n</div>\n\n<script>\n  (function() {\n    var duration = 5 * 60;\n    var stored = localStorage.getItem('bundle_timer_end');\n    var endTime;\n    if (stored) {\n      endTime = parseInt(stored);\n      if (Date.now() > endTime) {\n        endTime = Date.now() + duration * 1000;\n        localStorage.setItem('bundle_timer_end', endTime);\n      }\n    } else {\n      endTime = Date.now() + duration * 1000;\n      localStorage.setItem('bundle_timer_end', endTime);\n    }\n\n    function update() {\n      var diff = Math.max(0, endTime - Date.now());\n      if (diff === 0) {\n        endTime = Date.now() + duration * 1000;\n        localStorage.setItem('bundle_timer_end', endTime);\n        diff = duration * 1000;\n      }\n      var m = Math.floor(diff / 60000);\n      var s = Math.floor((diff % 60000) / 1000);\n      document.getElementById('bundle-timer').textContent = \n        String(m).padStart(2,'0') + ':' + String(s).padStart(2,'0');\n    }\n\n    update();\n    setInterval(update, 1000);\n  })();\n</script>"
+          }
         },
         "kaching_bundles_app_block_xhfEX9": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
@@ -116,10 +114,9 @@
         }
       },
       "block_order": [
-        "sku_yiWakU",
         "title",
         "liquid_6a3inE",
-        "badges",
+        "liquid_hVX3LG",
         "kaching_bundles_app_block_xhfEX9",
         "buy_buttons",
         "liquid_3BNrE7",
