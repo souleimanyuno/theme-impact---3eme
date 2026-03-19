@@ -156,6 +156,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_pqXD8j": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"margin: 24px 0;\">\n\n  <!-- TITRE -->\n  <div style=\"margin-bottom: 20px;\">\n    <p style=\"margin: 0 0 4px; font-size: 22px; font-weight: 900; color: #111; line-height: 1.2;\">Ingredientes con respaldo</p>\n    <p style=\"margin: 0; font-size: 22px; font-weight: 900; color: #FACC15; line-height: 1.2;\">científico.</p>\n  </div>\n\n  <!-- INGREDIENT 1 -->\n  <div style=\"display:flex; align-items:center; gap:12px; background:#f9fafb; border-radius:12px; padding:14px; margin-bottom:10px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/ChatGPT_Image_19_mars_2026_00_58_58_430x.png?v=1773896361\"\n      style=\"width:64px; height:64px; border-radius:8px; object-fit:cover; flex-shrink:0;\" />\n    <div>\n      <p style=\"margin:0 0 4px; font-size:13px; font-weight:800; color:#111;\">Mucuna Pruriens</p>\n      <p style=\"margin:0; font-size:12px; color:#6b7280; line-height:1.5;\">Precursor directo de dopamina. Más motivación y menos fatiga mental desde la primera semana.</p>\n    </div>\n  </div>\n\n  <!-- INGREDIENT 2 -->\n  <div style=\"display:flex; align-items:center; gap:12px; background:#f9fafb; border-radius:12px; padding:14px; margin-bottom:10px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/ChatGPT_Image_19_mars_2026_00_59_41_430x.png?v=1773896473\"\n      style=\"width:64px; height:64px; border-radius:8px; object-fit:cover; flex-shrink:0;\" />\n    <div>\n      <p style=\"margin:0 0 4px; font-size:13px; font-weight:800; color:#111;\">Rhodiola Rosea</p>\n      <p style=\"margin:0; font-size:12px; color:#6b7280; line-height:1.5;\">Adaptógeno anti-estrés. Mantiene la energía estable sin picos ni bajones durante 8 horas.</p>\n    </div>\n  </div>\n\n  <!-- INGREDIENT 3 -->\n  <div style=\"display:flex; align-items:center; gap:12px; background:#f9fafb; border-radius:12px; padding:14px; margin-bottom:10px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/ChatGPT_Image_19_mars_2026_01_00_07_430x.png?v=1773896501\"\n      style=\"width:64px; height:64px; border-radius:8px; object-fit:cover; flex-shrink:0;\" />\n    <div>\n      <p style=\"margin:0 0 4px; font-size:13px; font-weight:800; color:#111;\">5-HTP</p>\n      <p style=\"margin:0; font-size:12px; color:#6b7280; line-height:1.5;\">Equilibrio del estado de ánimo. Energía sin ansiedad — el contrapeso natural de la dopamina.</p>\n    </div>\n  </div>\n\n  <!-- INGREDIENT 4 -->\n  <div style=\"display:flex; align-items:center; gap:12px; background:#f9fafb; border-radius:12px; padding:14px; margin-bottom:10px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/ChatGPT_Image_19_mars_2026_01_00_36_430x.png?v=1773896518\"\n      style=\"width:64px; height:64px; border-radius:8px; object-fit:cover; flex-shrink:0;\" />\n    <div>\n      <p style=\"margin:0 0 4px; font-size:13px; font-weight:800; color:#111;\">Vitamina B6</p>\n      <p style=\"margin:0; font-size:12px; color:#6b7280; line-height:1.5;\">Cofactor esencial en la síntesis de dopamina y serotonina. Amplifica el efecto de todos los demás ingredientes.</p>\n    </div>\n  </div>\n\n  <!-- INGREDIENT 5 -->\n  <div style=\"display:flex; align-items:center; gap:12px; background:#f9fafb; border-radius:12px; padding:14px; margin-bottom:10px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/ChatGPT_Image_19_mars_2026_01_01_01_430x.png?v=1773896538\"\n      style=\"width:64px; height:64px; border-radius:8px; object-fit:cover; flex-shrink:0;\" />\n    <div>\n      <p style=\"margin:0 0 4px; font-size:13px; font-weight:800; color:#111;\">L-Teanina</p>\n      <p style=\"margin:0; font-size:12px; color:#6b7280; line-height:1.5;\">Foco sin tensión. Potencia la concentración sin el nerviosismo que provoca la cafeína.</p>\n    </div>\n  </div>\n\n  <!-- INGREDIENT 6 -->\n  <div style=\"display:flex; align-items:center; gap:12px; background:#f9fafb; border-radius:12px; padding:14px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0814/7897/5709/files/ChatGPT_Image_19_mars_2026_01_02_36_430x.png?v=1773896563\"\n      style=\"width:64px; height:64px; border-radius:8px; object-fit:cover; flex-shrink:0;\" />\n    <div>\n      <p style=\"margin:0 0 4px; font-size:13px; font-weight:800; color:#111;\">Ashwagandha</p>\n      <p style=\"margin:0; font-size:12px; color:#6b7280; line-height:1.5;\">Reduce el cortisol — la hormona que destruye tu energía. Recuperación mental acelerada.</p>\n    </div>\n  </div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_UhArkr": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -205,6 +218,7 @@
     "custom_liquid_9GYYVt",
     "custom_liquid_wWirjb",
     "custom_liquid_tMfpE4",
+    "custom_liquid_pqXD8j",
     "custom_liquid_UhArkr",
     "1773263563bb543867"
   ]
