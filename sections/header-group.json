@@ -41,16 +41,9 @@
         "message_4JWk4f",
         "message"
       ],
+      "custom_css": [],
       "settings": {
-        "enable_sticky": false,
-        "autoplay": false,
-        "cycle_speed": 6,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
-        "background": "#f83a3a",
-        "background_gradient": "",
-        "text_color": "#ffffff"
+        "enable_sticky": false
       }
     },
     "header": {
